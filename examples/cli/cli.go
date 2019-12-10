@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mr-tron/base58"
+	"github.com/godsey/base58"
 )
 
 func main() {
